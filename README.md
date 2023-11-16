@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsfe123
 - 👀 I’m interested in progamation
-- 🌱 I’m currently learning html,javascript,css,scss,sass,c++,c# and go
+- 🌱 I’m currently learning html,javascript,css,scss,sass,c++,c# and golang
 - 💞️ I’m looking to collaborate on Offices
 - 📫 How to reach me ?
 
